@@ -1,0 +1,8 @@
+6de939211edf47a7daf898737441ffe6 *DESCRIPTION
+44f50a7c5fedebdaeb037d9b2f474173 *NAMESPACE
+788c581c745d830b101f8e85a009fef0 *NEWS.md
+9fa016928f65d4c8579222dec54d9565 *R/package.R
+8a2e6cf338e50ad8667a44094b4b63c2 *README.md
+4939a87ddf8dfb61b02b1245da472cea *man/http_problem.Rd
+0697fb1008d617734b1f3c82d0f79cf9 *man/http_problem_types.Rd
+a8e90bddf972311b0650af0a54ee1c70 *man/stop_for_http_problem.Rd
